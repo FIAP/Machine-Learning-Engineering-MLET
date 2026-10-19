@@ -1,0 +1,5 @@
+Aula 3 - Detecção e Tratamento de Duplicatas e Valores Ausentes
+Fase 4 - Conteúdo bloqueado
+Capítulo: Validação de Dados e Bibliotecas de Qualidade
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

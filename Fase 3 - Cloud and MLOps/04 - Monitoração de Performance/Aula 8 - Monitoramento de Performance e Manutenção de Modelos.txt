@@ -1,0 +1,8 @@
+Aula 8 - Monitoramento de Performance e Manutenção de Modelos
+Fase 3 - Cloud and MLOps
+Capítulo: Monitoração de Performance
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628247&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628255
+
+Obs.: links exigem login na plataforma FIAP.

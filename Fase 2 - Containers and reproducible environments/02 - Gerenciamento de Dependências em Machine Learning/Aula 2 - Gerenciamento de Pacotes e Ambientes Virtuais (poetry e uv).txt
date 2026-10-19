@@ -1,0 +1,8 @@
+Aula 2 - Gerenciamento de Pacotes e Ambientes Virtuais (poetry e uv)
+Fase 2 - Containers and reproducible environments
+Capítulo: Gerenciamento de Dependências em Machine Learning
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=617206&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=617210
+
+Obs.: links exigem login na plataforma FIAP.

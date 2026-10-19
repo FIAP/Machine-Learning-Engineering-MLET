@@ -1,0 +1,8 @@
+Aula 2 - Otimização de Modelos Supervisionados I
+Fase 3 - Cloud and MLOps
+Capítulo: Monitoração de Performance
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628241&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628249
+
+Obs.: links exigem login na plataforma FIAP.

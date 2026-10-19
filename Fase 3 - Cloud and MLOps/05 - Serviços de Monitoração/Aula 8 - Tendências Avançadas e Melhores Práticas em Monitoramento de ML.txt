@@ -1,0 +1,8 @@
+Aula 8 - Tendências Avançadas e Melhores Práticas em Monitoramento de ML
+Fase 3 - Cloud and MLOps
+Capítulo: Serviços de Monitoração
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628264&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628272
+
+Obs.: links exigem login na plataforma FIAP.

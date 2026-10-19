@@ -1,0 +1,5 @@
+Aula 3 - Alertas de Falha em Ingestão/Transformação de Dados
+Fase 4 - Conteúdo bloqueado
+Capítulo: Monitoramento de Pipelines e Infraestrutura
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

@@ -1,0 +1,8 @@
+Aula 2 - Modularidade: Funções, Classes e Pacotes
+Fase 1 - Produtização de Modelos
+Capítulo: Bibliotecas Internas e SDKs
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607739&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607746
+
+Obs.: links exigem login na plataforma FIAP.

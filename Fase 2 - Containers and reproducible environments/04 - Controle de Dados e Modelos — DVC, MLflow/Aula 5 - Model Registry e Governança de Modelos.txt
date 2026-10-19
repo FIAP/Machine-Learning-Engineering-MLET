@@ -1,0 +1,8 @@
+Aula 5 - Model Registry e Governança de Modelos
+Fase 2 - Containers and reproducible environments
+Capítulo: Controle de Dados e Modelos — DVC, MLflow
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=617235&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=617242
+
+Obs.: links exigem login na plataforma FIAP.

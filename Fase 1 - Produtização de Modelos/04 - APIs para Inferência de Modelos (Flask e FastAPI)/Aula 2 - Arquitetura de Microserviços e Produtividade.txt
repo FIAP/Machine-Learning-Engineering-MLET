@@ -1,0 +1,8 @@
+Aula 2 - Arquitetura de Microserviços e Produtividade
+Fase 1 - Produtização de Modelos
+Capítulo: APIs para Inferência de Modelos (Flask e FastAPI)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607722&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607730
+
+Obs.: links exigem login na plataforma FIAP.

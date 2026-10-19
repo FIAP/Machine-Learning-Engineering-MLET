@@ -1,0 +1,8 @@
+Aula 5 - Segurança e Boas Práticas em APIs
+Fase 1 - Produtização de Modelos
+Capítulo: APIs para Inferência de Modelos (Flask e FastAPI)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607725&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607733
+
+Obs.: links exigem login na plataforma FIAP.

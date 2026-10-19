@@ -1,0 +1,5 @@
+Aula 1 - Por que Monitorar Pipelines e Infraestrutura?
+Fase 4 - Conteúdo bloqueado
+Capítulo: Monitoramento de Pipelines e Infraestrutura
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

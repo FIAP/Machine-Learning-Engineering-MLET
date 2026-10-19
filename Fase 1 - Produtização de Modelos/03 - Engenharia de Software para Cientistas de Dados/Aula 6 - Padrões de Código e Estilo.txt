@@ -1,0 +1,8 @@
+Aula 6 - Padrões de Código e Estilo
+Fase 1 - Produtização de Modelos
+Capítulo: Engenharia de Software para Cientistas de Dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607709&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607717
+
+Obs.: links exigem login na plataforma FIAP.

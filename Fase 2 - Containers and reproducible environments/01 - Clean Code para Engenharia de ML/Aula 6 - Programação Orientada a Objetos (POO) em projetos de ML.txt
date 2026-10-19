@@ -1,0 +1,8 @@
+Aula 6 - Programação Orientada a Objetos (POO) em projetos de ML
+Fase 2 - Containers and reproducible environments
+Capítulo: Clean Code para Engenharia de ML
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=617193&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=617201
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,5 @@
+Aula 2 - Técnicas de Detecção de Drift (Estatística)
+Fase 4 - Conteúdo bloqueado
+Capítulo: Data Drift
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

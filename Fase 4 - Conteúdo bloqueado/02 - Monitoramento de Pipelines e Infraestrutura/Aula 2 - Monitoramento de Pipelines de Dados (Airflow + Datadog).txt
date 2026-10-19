@@ -1,0 +1,5 @@
+Aula 2 - Monitoramento de Pipelines de Dados (Airflow + Datadog)
+Fase 4 - Conteúdo bloqueado
+Capítulo: Monitoramento de Pipelines e Infraestrutura
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

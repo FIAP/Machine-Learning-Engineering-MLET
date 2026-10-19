@@ -1,0 +1,8 @@
+Aula 7 - Integração Híbrida e Comparativo de Soluções de Monitoramento
+Fase 3 - Cloud and MLOps
+Capítulo: Serviços de Monitoração
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628263&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628271
+
+Obs.: links exigem login na plataforma FIAP.

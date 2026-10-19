@@ -1,0 +1,8 @@
+Aula 5 - Naming Conventions e Estilo de Código (PEP8)
+Fase 1 - Produtização de Modelos
+Capítulo: Bibliotecas Internas e SDKs
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607742&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607749
+
+Obs.: links exigem login na plataforma FIAP.

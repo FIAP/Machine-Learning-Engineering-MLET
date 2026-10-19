@@ -1,0 +1,8 @@
+Aula 4 - Introdução ao MLflow (Experiment Tracking)
+Fase 2 - Containers and reproducible environments
+Capítulo: Controle de Dados e Modelos — DVC, MLflow
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=617234&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=617241
+
+Obs.: links exigem login na plataforma FIAP.

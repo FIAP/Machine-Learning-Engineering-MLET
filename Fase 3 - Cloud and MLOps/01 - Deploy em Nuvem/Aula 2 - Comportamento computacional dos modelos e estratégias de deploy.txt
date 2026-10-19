@@ -1,0 +1,8 @@
+Aula 2 - Comportamento computacional dos modelos e estratégias de deploy
+Fase 3 - Cloud and MLOps
+Capítulo: Deploy em Nuvem
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628194&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628200
+
+Obs.: links exigem login na plataforma FIAP.

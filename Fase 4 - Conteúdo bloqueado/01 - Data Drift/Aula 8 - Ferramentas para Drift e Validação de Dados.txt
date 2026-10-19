@@ -1,0 +1,5 @@
+Aula 8 - Ferramentas para Drift e Validação de Dados
+Fase 4 - Conteúdo bloqueado
+Capítulo: Data Drift
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

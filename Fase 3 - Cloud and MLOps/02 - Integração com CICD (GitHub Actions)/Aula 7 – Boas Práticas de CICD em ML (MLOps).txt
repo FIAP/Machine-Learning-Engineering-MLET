@@ -1,0 +1,8 @@
+Aula 7 – Boas Práticas de CI/CD em ML (MLOps)
+Fase 3 - Cloud and MLOps
+Capítulo: Integração com CI/CD (GitHub Actions)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628212&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628220
+
+Obs.: links exigem login na plataforma FIAP.

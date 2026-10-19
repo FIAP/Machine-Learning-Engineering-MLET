@@ -1,0 +1,5 @@
+Aula 5 - Drift em Embeddings e Testes de Duas Amostras
+Fase 4 - Conteúdo bloqueado
+Capítulo: Data Drift
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

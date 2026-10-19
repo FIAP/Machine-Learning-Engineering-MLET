@@ -1,0 +1,8 @@
+Aula 3 - Armazenamento Remoto e Integração com GitHub
+Fase 2 - Containers and reproducible environments
+Capítulo: Controle de Dados e Modelos — DVC, MLflow
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=617233&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=617240
+
+Obs.: links exigem login na plataforma FIAP.

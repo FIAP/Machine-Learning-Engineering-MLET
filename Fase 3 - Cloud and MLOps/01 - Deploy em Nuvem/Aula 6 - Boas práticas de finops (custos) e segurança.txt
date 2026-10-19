@@ -1,0 +1,8 @@
+Aula 6 - Boas práticas de finops (custos) e segurança
+Fase 3 - Cloud and MLOps
+Capítulo: Deploy em Nuvem
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628198&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628204
+
+Obs.: links exigem login na plataforma FIAP.

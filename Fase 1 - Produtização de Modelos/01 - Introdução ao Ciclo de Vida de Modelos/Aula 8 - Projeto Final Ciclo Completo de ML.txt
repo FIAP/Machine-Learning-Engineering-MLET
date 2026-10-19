@@ -1,0 +1,8 @@
+Aula 8 - Projeto Final: Ciclo Completo de ML
+Fase 1 - Produtização de Modelos
+Capítulo: Introdução ao Ciclo de Vida de Modelos
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607677&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607685
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,4 +1,4 @@
-# [Nome do curso] - [CURSO]
+# Machine Learning Engineering - MLET
 
 Este repositório contém os materiais complementares divididos por fases, categorias e aulas.
 

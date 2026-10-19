@@ -1,0 +1,8 @@
+Aula 1 - Paradigmas de Aprendizado de Máquina
+Fase 1 - Produtização de Modelos
+Capítulo: Fundamentos de Modelos de ML
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607687&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607695
+
+Obs.: links exigem login na plataforma FIAP.

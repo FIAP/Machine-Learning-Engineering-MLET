@@ -1,0 +1,8 @@
+Aula 3 - Construindo uma API de ML com Flask
+Fase 1 - Produtização de Modelos
+Capítulo: APIs para Inferência de Modelos (Flask e FastAPI)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607723&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607731
+
+Obs.: links exigem login na plataforma FIAP.

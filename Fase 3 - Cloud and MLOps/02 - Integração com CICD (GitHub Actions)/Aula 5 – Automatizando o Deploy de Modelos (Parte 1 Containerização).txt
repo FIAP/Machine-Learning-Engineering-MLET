@@ -1,0 +1,8 @@
+Aula 5 – Automatizando o Deploy de Modelos (Parte 1: Containerização)
+Fase 3 - Cloud and MLOps
+Capítulo: Integração com CI/CD (GitHub Actions)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628210&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628218
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 7 – Treinamento Automático e Re-Treino de Modelos
+Fase 3 - Cloud and MLOps
+Capítulo: Pipeline de Treino e Deploy Automático
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628229&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628237
+
+Obs.: links exigem login na plataforma FIAP.

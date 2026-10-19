@@ -1,0 +1,8 @@
+Aula 3 - Deploy de ML na AWS: ECR, EC2, Lambda, AWS Batch e Sagemaker
+Fase 3 - Cloud and MLOps
+Capítulo: Deploy em Nuvem
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628195&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628201
+
+Obs.: links exigem login na plataforma FIAP.

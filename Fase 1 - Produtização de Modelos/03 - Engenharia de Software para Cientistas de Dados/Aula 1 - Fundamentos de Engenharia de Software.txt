@@ -1,0 +1,8 @@
+Aula 1 - Fundamentos de Engenharia de Software
+Fase 1 - Produtização de Modelos
+Capítulo: Engenharia de Software para Cientistas de Dados
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=607704&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=607712
+
+Obs.: links exigem login na plataforma FIAP.

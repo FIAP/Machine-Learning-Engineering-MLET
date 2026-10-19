@@ -1,0 +1,8 @@
+Aula 3 - Padrões de Projeto em ML
+Fase 2 - Containers and reproducible environments
+Capítulo: Clean Code para Engenharia de ML
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=617190&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=617198
+
+Obs.: links exigem login na plataforma FIAP.

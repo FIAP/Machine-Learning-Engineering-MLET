@@ -1,0 +1,5 @@
+Aula 4 - Métricas Avançadas para Detecção de Drift
+Fase 4 - Conteúdo bloqueado
+Capítulo: Data Drift
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

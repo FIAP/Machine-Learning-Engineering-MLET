@@ -1,0 +1,8 @@
+Aula 2 – Integração Contínua para Data Science com GitHub Actions
+Fase 3 - Cloud and MLOps
+Capítulo: Integração com CI/CD (GitHub Actions)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628207&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628215
+
+Obs.: links exigem login na plataforma FIAP.

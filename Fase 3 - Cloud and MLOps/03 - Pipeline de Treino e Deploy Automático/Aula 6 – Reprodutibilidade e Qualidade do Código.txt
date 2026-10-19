@@ -1,0 +1,8 @@
+Aula 6 – Reprodutibilidade e Qualidade do Código
+Fase 3 - Cloud and MLOps
+Capítulo: Pipeline de Treino e Deploy Automático
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=628228&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=628236
+
+Obs.: links exigem login na plataforma FIAP.

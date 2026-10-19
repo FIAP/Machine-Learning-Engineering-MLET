@@ -1,0 +1,5 @@
+Aula 7 - Monitoramento de Infraestrutura: Cloud (AWS/Azure) e Open-Source
+Fase 4 - Conteúdo bloqueado
+Capítulo: Monitoramento de Pipelines e Infraestrutura
+
+Status: conteúdo bloqueado na plataforma no momento da extração (sem links).

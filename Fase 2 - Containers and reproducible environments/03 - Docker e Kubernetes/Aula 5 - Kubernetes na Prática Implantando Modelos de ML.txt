@@ -1,0 +1,8 @@
+Aula 5 - Kubernetes na Prática: Implantando Modelos de ML
+Fase 2 - Containers and reproducible environments
+Capítulo: Docker e Kubernetes
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=617218&sesskey=FayEyl26Pl
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=617226
+
+Obs.: links exigem login na plataforma FIAP.
