@@ -1,0 +1,14 @@
+# ============================================================
+# Aula 04 — Otimização de Modelos: Pruning e Quantização
+# Dependências (versão simplificada — notebook único)
+# ============================================================
+
+# Núcleo científico
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualização
+matplotlib>=3.7.0
+
+# Notebook
+jupyter>=1.0.0

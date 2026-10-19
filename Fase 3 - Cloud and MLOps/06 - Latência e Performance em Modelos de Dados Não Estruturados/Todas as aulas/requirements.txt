@@ -1,0 +1,65 @@
+# ==============================================================================
+# Dependencias Python Gerais
+# Disciplina: Latencia e Performance em Modelos de Dados Nao Estruturados
+# ==============================================================================
+
+# Core Scientific Computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Machine Learning - Classical
+scikit-learn>=1.3.0
+
+# Deep Learning - PyTorch (principal)
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# Deep Learning - TensorFlow/Keras (complementar)
+tensorflow>=2.14.0
+
+# Hugging Face Ecosystem
+transformers>=4.35.0
+datasets>=2.15.0
+accelerate>=0.24.0
+peft>=0.6.0
+
+# Model Optimization
+onnx>=1.15.0
+onnxruntime>=1.16.0
+
+# API / Serving
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+
+# Notebooks
+jupyter>=1.0.0
+ipywidgets>=8.1.0
+
+# Experiment Tracking
+mlflow>=2.8.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Code Quality
+ruff>=0.1.0
+black>=23.10.0
+
+# Utilities
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.0
+requests>=2.31.0
+
+# Profiling
+line-profiler>=4.1.0
+memory-profiler>=0.61.0
