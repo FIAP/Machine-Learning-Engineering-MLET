@@ -17,6 +17,7 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [03 - Engenharia de Software para Cientistas de Dados](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/03%20-%20Engenharia%20de%20Software%20para%20Cientistas%20de%20Dados)
 - [04 - APIs para Inferência de Modelos (Flask e FastAPI)](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/04%20-%20APIs%20para%20Infer%C3%AAncia%20de%20Modelos%20%28Flask%20e%20FastAPI%29)
 - [05 - Bibliotecas Internas e SDKs](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/05%20-%20Bibliotecas%20Internas%20e%20SDKs)
+- [Python, Matemática e Estatística para ML](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/Python%2C%20Matem%C3%A1tica%20e%20Estat%C3%ADstica%20para%20ML)
 
 ## [Fase 2 - Containers and reproducible environments](./Fase%202%20-%20Containers%20and%20reproducible%20environments)
 - [01 - Clean Code para Engenharia de ML](./Fase%202%20-%20Containers%20and%20reproducible%20environments/01%20-%20Clean%20Code%20para%20Engenharia%20de%20ML)
