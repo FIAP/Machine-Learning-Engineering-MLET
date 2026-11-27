@@ -1,0 +1,56 @@
+name: CI/CD
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build-test-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install dependencies
+        run: uv pip install --system -r requirements.txt
+
+      - name: Lint with ruff
+        run: ruff check src/ tests/
+
+      - name: Format check
+        run: ruff format --check src/ tests/
+
+      - name: Run tests
+        run: pytest -q
+
+      - name: Build Docker image
+        run: docker build -t credit-api:${{ github.sha }} .
+
+      - name: Tag for registry (simulado)
+        run: |
+          echo "Tagging image: credit-api:${{ github.sha }}"
+          docker tag credit-api:${{ github.sha }} credit-api:latest
+
+      - name: Push to registry (simulado)
+        run: |
+          echo "Simulating push to registry..."
+          echo "Image: credit-api:${{ github.sha }}"
+
+      - name: Deploy to staging (simulado)
+        run: |
+          echo "Deploying to staging environment..."
+          echo "Image tag: ${{ github.sha }}"
+
+      - name: Health check (simulado)
+        run: |
+          echo "Running health check on staging..."
+          echo "curl http://staging.example.com/health"
