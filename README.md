@@ -15,6 +15,7 @@ Este repositório contém os materiais complementares divididos por fases, categ
 - [01 - Introdução ao Ciclo de Vida de Modelos](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/01%20-%20Introdu%C3%A7%C3%A3o%20ao%20Ciclo%20de%20Vida%20de%20Modelos)
 - [02 - Fundamentos de Modelos de ML](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/02%20-%20Fundamentos%20de%20Modelos%20de%20ML)
 - [03 - Engenharia de Software para Cientistas de Dados](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/03%20-%20Engenharia%20de%20Software%20para%20Cientistas%20de%20Dados)
+  - [Aulas 1, 2, 3, 4, 5, 6, 7 e 8](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/03%20-%20Engenharia%20de%20Software%20para%20Cientistas%20de%20Dados/Aulas%201%2C%202%2C%203%2C%204%2C%205%2C%206%2C%207%20e%208)
 - [04 - APIs para Inferência de Modelos (Flask e FastAPI)](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/04%20-%20APIs%20para%20Infer%C3%AAncia%20de%20Modelos%20%28Flask%20e%20FastAPI%29)
 - [05 - Bibliotecas Internas e SDKs](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/05%20-%20Bibliotecas%20Internas%20e%20SDKs)
 - [Python, Matemática e Estatística para ML](./Fase%201%20-%20Produtiza%C3%A7%C3%A3o%20de%20Modelos/Python%2C%20Matem%C3%A1tica%20e%20Estat%C3%ADstica%20para%20ML)
